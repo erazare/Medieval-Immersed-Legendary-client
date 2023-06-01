@@ -74,6 +74,8 @@ mode = "fancy"
 				donkey = true
 				wandering_trader = true
 				arrow = true
+				lightning_bolt = true
+				llama = true
 
 			[light_sources.settings.entities.mca]
 				male_villager = true
@@ -88,6 +90,7 @@ mode = "fancy"
 				executioner = true
 				tropical_spider = true
 				explorer = true
+				frozen_zombie = true
 
 			[light_sources.settings.entities.direbats]
 				direbat = true
@@ -101,6 +104,7 @@ mode = "fancy"
 			[light_sources.settings.entities.mutantmonsters]
 				mutant_zombie = true
 				mutant_creeper = true
+				mutant_skeleton = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -110,4 +114,9 @@ mode = "fancy"
 
 			[light_sources.settings.entities.mythicmounts]
 				nudibranch = true
+				ridinglizard = true
+				firebird = true
+
+			[light_sources.settings.entities.soulsweapons]
+				big_chungus = true
 

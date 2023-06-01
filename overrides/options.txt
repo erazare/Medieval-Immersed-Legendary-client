@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","file/FreshAnimations_v1.8.zip","file/CRRP-1.19.2-1.0.1.zip","file/Feathers+Vanilla_V5.zip","resources/essence-rpg-resources-v1-17.zip","minecraft/supporteatinganimation","file/Spell_Power+PlayerEx-RelicEx_0.9.5.zip","file/Fantasy_Ores_v7.1[classic].zip","2D Weapon Models","$polymer-resources","Create Legacy Copper","simplyswords/classic","vinery/bushy_leaves","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","file/farmers+delightCR.zip","file/WaystonesCR119.zip","file/CR-artifacts1.19.zip","file/CR-Create1.19v3.zip","file/Conquest of Comforts 1.19 v1.zip","file/cr-enderstorage.zip","file/darker_deepslate1.19v1.zip","file/Conquest of CreateAdditionsV1-1.19.zip"]
+resourcePacks:["vanilla","Fabric Mods","file/FreshAnimations_v1.8.zip","file/CRRP-1.19.2-1.0.1.zip","resources/essence-rpg-resources-v1-17.zip","minecraft/supporteatinganimation","file/Spell_Power+PlayerEx-RelicEx_0.9.5.zip","file/Fantasy_Ores_v7.1[classic].zip","2D Weapon Models","$polymer-resources","Create Legacy Copper","simplyswords/classic","vinery/bushy_leaves","file/Gothic RPG Font.zip","file/DiscreetGUI V1.4.zip","file/farmers+delightCR.zip","file/WaystonesCR119.zip","file/CR-artifacts1.19.zip","file/CR-Create1.19v3.zip","file/Conquest of Comforts 1.19 v1.zip","file/cr-enderstorage.zip","file/darker_deepslate1.19v1.zip","file/Conquest of CreateAdditionsV1-1.19.zip","Supplementaries Generated Pack","file/intstrong_graveyard-1.0.0-1.18.2-1.19.2.zip","file/Feathers+Vanilla_V5.zip","file/automata-steve.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
