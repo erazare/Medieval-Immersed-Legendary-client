@@ -1,0 +1,278 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = Title
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = bottom-centered
+  x = -61
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = bottom-centered
+  x = 52
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = bottom-left
+  x = 247
+  action = movebutton
+  y = -37
+}
+
+customization {
+  identifier = %id=376310%
+  orientation = bottom-right
+  x = -85
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = bottom-left
+  x = 304
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = bottom-centered
+  x = 166
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = bottom-right
+  x = -200
+  action = movebutton
+  y = -72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = bottom-left
+  x = 247
+  action = movebutton
+  y = -72
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 143
+  action = deep_customization_element:title_screen_branding
+  actionid = e7218c59-61cd-4d6e-81c7-bb9f0d7a09691681312901633
+  y = 528
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = b4f2f51a-89fa-4157-b7fb-450ffe71884d1681312901633
+  y = 235
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 3b16414f-a275-4942-b96d-e7b4605b4b251681312901633
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 379d7ce8-657f-4960-b825-0e7e1c7dacc71681312901633
+  y = 0
+  height = 30
+}
+
+customization {
+  path = config/fancymenu/assets/logo.png
+  orientation = top-left
+  x = -58
+  width = 422
+  action = addtexture
+  actionid = 047fccd6-fdf3-42d0-b6ff-4fb60c39f3f91681312948432
+  y = -33
+  height = 481
+}
+
+customization {
+  slim = false
+  auto_skin = false
+  scale = 30
+  showname = true
+  follow_mouse = true
+  capeurl = http://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933
+  action = custom_layout_element:fancymenu_customization_player_entity
+  actionid = 5f59bcdb-90d4-4509-8e8f-7185a1a8bc6e1681322040740
+  playername = Keef_DGAF
+  bodyrotationx = 0.0
+  bodyrotationy = 0.0
+  auto_cape = false
+  is_baby = false
+  height = 54
+  orientation = bottom-left
+  copy_client_player = true
+  headrotationy = 0.0
+  headrotationx = 0.0
+  skinurl = http://textures.minecraft.net/texture/18504e5cb00a94c4f5ef0f5afdbd16e62cdee5b68c7236fb555ceb9e7cd89096
+  crouching = false
+  x = 40
+  width = 18
+  parrot_left_shoulder = true
+  y = -121
+  parrot = false
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = opencustomgui;secretmenu%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/assets/dgaf.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = Click Here for the 'Secret Menu'
+  x = 104
+  width = 100
+  action = addbutton
+  actionid = 55779d49-b491-4a5c-b326-b3527962004c1681338646013
+  y = 400
+  backgroundnormal = config/fancymenu/assets/dgaf.png
+  height = 98
+}
+
+customization {
+  orientation = mid-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = DGAF Development
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 111
+  width = 93
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = d6758d4b-10bf-4a1a-b2b9-68091907a61c1681427398666
+  y = -121
+  alignment = left
+  height = 21
+}
+
+customization {
+  orientation = bottom-centered
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/avuMArx9kr%btnaction_splitter_fm%
+  x = -3
+  width = 224
+  action = addbutton
+  actionid = 7929cb66-c154-4f33-bd5b-5a9d047afcb91684988673939
+  y = -39
+  label = Join us on Discord !
+  height = 20
+}
+
+customization {
+  orientation = mid-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = -Legendary Edition-
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 111
+  width = 93
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 4fcda255-8062-435e-ac9c-45927a6716441681427262742
+  y = -4
+  alignment = left
+  height = 40
+}
+

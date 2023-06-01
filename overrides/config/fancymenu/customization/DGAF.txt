@@ -1,0 +1,146 @@
+type = menu
+
+customization-meta {
+  identifier = secretmenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 2.0
+  source = DGAF Development Secret Menu
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 385
+  width = 317
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 04c637bc-1311-416f-a1fb-637085a8022f1671569425277
+  y = 30
+  alignment = left
+  height = 40
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = A VERY Special thank you to:%n%%n%QueenTiffany<3%n%EvilKillem [ Where for art thou? ]%n%Mr.G%n%Dr_Bismarck%n%Voodooer%n%oOoDekeroOo%n%DjBishop%n%Ispeedytoxic%n%owlwix%n%and so many more%n%for your support%n%and input on Discord. 
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -141
+  width = 338
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = d2cec8ef-c70a-436e-ab8e-4f8b0cabcb691671569658904
+  y = -36
+  alignment = centered
+  height = 147
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = false
+  shadow = true
+  scale = 1.0
+  source = ** Hit ESC to return to main menu **
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 405
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 47de4759-dfad-414b-b685-dd7aea11d5b41671570985222
+  y = 417
+  alignment = centered
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Datapack Creators Credits:%n%%n%2mal3s-Tweaks : https://www.planetminecraft.com/data-pack/2mal3-s-tweaks/ %n%Gravestone Dungeons v1.3 : https://www.planetminecraft.com/data-pack/gravestone-dungeons-v1-0/ %n%No-Lag v3.1.3 : https://modrinth.com/datapack/no-lag/version/v3.1.3 %n%Minecraft: Survival Expansion III : https://www.planetminecraft.com/data-pack/minecraft-survival-expansion-iii/ %n%Wisd8m's End Structures : https://www.planetminecraft.com/data-pack/wisd8m-s-end-structures/ %n%Hexenwerk : https://www.planetminecraft.com/data-pack/hexenwerk/%n%Essence RPG Sunrise : https://www.planetminecraft.com/data-pack/essence-rpg-sunrise/ %n%Modifiers-Reforged : https://www.planetminecraft.com/data-pack/modifiers/%n%Just Another Structure Pack : https://www.planetminecraft.com/data-pack/just-another-structure-pack/%n%The Bastions Overhaul : https://www.planetminecraft.com/data-pack/the-bastions-overhaul/%n%Vanilla Mob Bosses/Variants v1.5 : https://www.planetminecraft.com/data-pack/vanilla-mob-bosses-variants/%n%Owl's Ultimate QoL : https://modrinth.com/datapack/owls-ultimate-qol%n%Owl's Oddities : https://modrinth.com/datapack/owls-oddities%n%Hostile Mobs Improve Over Time : https://www.planetminecraft.com/data-pack/hostile-mobs-improve-over-time/%n%
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 334
+  width = 658
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 0dd28e28-fcc4-4921-af17-3a0e88cb32341678115014448
+  y = 63
+  alignment = left
+  height = 90
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = For additional customization options after creating your world:%n% 1. Open Chat and enter the command : /function#2tw:menu to access 2mal3's Customization Menu.%n% 2. Enter the command : /function #nola:menu to access the No-Lag Menu options.%n% 
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 336
+  width = 658
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = e08d1fb0-c08c-4c51-a64d-11dad566d5821678116290820
+  y = 165
+  alignment = left
+  height = 90
+}
+
+customization {
+  path = config/fancymenu/assets/logo.png
+  orientation = mid-left
+  x = -51
+  width = 422
+  action = addtexture
+  actionid = 047fccd6-fdf3-42d0-b6ff-4fb60c39f3f91681312948432
+  y = -276
+  height = 481
+}
+
+customization {
+  orientation = top-left
+  loop = true
+  channel = master
+  x = 0
+  width = 50
+  audio_source:c3326010-c714-44b2-8f1d-e623cc5decc41681340671866 = config/fancymenu/assets/high.ogg;EXTERNAL_LOCAL;50;0
+  action = custom_layout_element:fancymenu_extension:audio_item
+  actionid = 13df2bf4-696a-4435-a989-98b7f0db1ca11681340665462
+  y = 0
+  once_per_session = false
+  height = 50
+}
+

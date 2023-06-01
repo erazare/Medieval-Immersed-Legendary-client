@@ -1,0 +1,113 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				bat = true
+				glow_squid = true
+				spider = true
+				skeleton = true
+				wolf = true
+				sheep = true
+				squid = true
+				pig = true
+				cow = true
+				chicken = true
+				item = true
+				creeper = true
+				cod = true
+				salmon = true
+				zombie = true
+				enderman = true
+				drowned = true
+				item_frame = true
+				iron_golem = true
+				armor_stand = true
+				tnt_minecart = true
+				husk = true
+				skeleton_horse = true
+				wither_skeleton = true
+				cat = true
+				tropical_fish = true
+				pufferfish = true
+				axolotl = true
+				illusioner = true
+				evoker = true
+				witch = true
+				dolphin = true
+				parrot = true
+				ocelot = true
+				experience_orb = true
+				panda = true
+				bee = true
+				rabbit = true
+				turtle = true
+				horse = true
+				villager = true
+				painting = true
+				cave_spider = true
+				fox = true
+				zombie_villager = true
+				minecart = true
+				slime = true
+				donkey = true
+				wandering_trader = true
+				arrow = true
+
+			[light_sources.settings.entities.mca]
+				male_villager = true
+				female_villager = true
+				male_zombie_villager = true
+
+			[light_sources.settings.entities.frycmobvariants]
+				undead_warrior = true
+				cave_creeper = true
+				forgotten = true
+				armored_spider = true
+				executioner = true
+				tropical_spider = true
+				explorer = true
+
+			[light_sources.settings.entities.direbats]
+				direbat = true
+
+			[light_sources.settings.entities.graveyard]
+				skeleton_creeper = true
+				ghoul = true
+				nightmare = true
+				revenant = true
+
+			[light_sources.settings.entities.mutantmonsters]
+				mutant_zombie = true
+				mutant_creeper = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.uselessreptile]
+				moleclaw = true
+
+			[light_sources.settings.entities.mythicmounts]
+				nudibranch = true
+

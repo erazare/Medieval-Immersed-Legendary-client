@@ -1,0 +1,43 @@
+{
+  "general": {
+    "timeFormat": "hh:mm",
+    "timeTextFormat": "[%TIME%] ",
+    "time_color": "#FFFFFFFF",
+    "show_time": false,
+    "clearOnDisconnect": true,
+    "chatStack": 0,
+    "chatStackUpdate": false,
+    "messageOwnerRegex": "(?\u003c!\\[)\\b[A-Za-z0-9_§]{3,16}\\b(?!\\])",
+    "filterProfanity": false,
+    "profanityAbove": 0.0,
+    "profanityWordBoundaries": false
+  },
+  "chatscreen": {
+    "persistentText": false,
+    "color": "#64000000",
+    "moreText": false,
+    "showChatIcons": true,
+    "modified": "#00EAC864",
+    "system": "#00A0A0A0",
+    "filtered": "#00EAC864",
+    "notSecure": "#00E84F58"
+  },
+  "hotkeys": {
+    "openSettings": {
+      "keys": ""
+    },
+    "openChat": {
+      "keys": ""
+    },
+    "openChatFreeMovement": {
+      "keys": ""
+    },
+    "togglePermanent": {
+      "keys": ""
+    },
+    "openChatWithLast": {
+      "keys": "UP"
+    }
+  },
+  "config_version": 1
+}

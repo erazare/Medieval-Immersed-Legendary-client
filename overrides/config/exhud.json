@@ -1,0 +1,5 @@
+{
+  "renderCustomHealthbar": true,
+  "renderCustomUtilities": true,
+  "enableFoodStat": true
+}

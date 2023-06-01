@@ -1,0 +1,6 @@
+renamefile:mods/bsvsb-3.0.3.jar.disabled;bsvsb-3.0.3.jar
+renamefile:mods/Fastload+1.18.2-1.20-3.4.0.jar.disabled;Fastload+1.18.2-1.20-3.4.0.jar
+renamefile:mods/indium-1.0.15+mc1.19.4.jar.disabled;indium-1.0.15+mc1.19.4.jar
+renamefile:mods/iris-mc1.19.4-1.6.1.jar.disabled;iris-mc1.19.4-1.6.1.jar
+renamefile:mods/sodium-extra-0.4.18+mc1.19.4-build.100.jar.disabled;sodium-extra-0.4.18+mc1.19.4-build.100.jar
+renamefile:mods/toms_storage_fabric-1.19.4-1.5.6.jar.disabled;toms_storage_fabric-1.19.4-1.5.6.jar
