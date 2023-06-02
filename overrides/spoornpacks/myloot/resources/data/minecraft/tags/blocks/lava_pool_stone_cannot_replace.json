@@ -1,0 +1,7 @@
+{
+  "replace" : false,
+  "values" : [
+    "myloot:loot_chest",
+    "myloot:opened_loot_chest"
+  ]
+}

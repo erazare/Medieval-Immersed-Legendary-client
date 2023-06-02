@@ -132,7 +132,11 @@ mode = "fancy"
 				acencia = true
 				geckotoalizard = true
 				dragon = true
+				courierbird = true
 
 			[light_sources.settings.entities.soulsweapons]
 				big_chungus = true
+
+			[light_sources.settings.entities.lootgoblins]
+				golden_skeleton = true
 

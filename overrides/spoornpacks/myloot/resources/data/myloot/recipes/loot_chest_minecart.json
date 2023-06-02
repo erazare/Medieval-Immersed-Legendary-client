@@ -1,0 +1,18 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "pattern" : [
+    "A",
+    "B"
+  ],
+  "key" : {
+    "A" : {
+      "item" : "myloot:loot_chest"
+    },
+    "B" : {
+      "item" : "minecraft:minecart"
+    }
+  },
+  "result" : {
+    "item" : "myloot:loot_chest_minecart"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "replace" : false,
+  "values" : [
+    "myloot:loot_shulker_box",
+    "myloot:opened_loot_shulker_box"
+  ]
+}
