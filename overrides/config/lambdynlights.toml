@@ -76,6 +76,14 @@ mode = "fancy"
 				arrow = true
 				lightning_bolt = true
 				llama = true
+				chest_minecart = true
+				stray = true
+				polar_bear = true
+				vindicator = true
+				pillager = true
+				frog = true
+				allay = true
+				potion = true
 
 			[light_sources.settings.entities.mca]
 				male_villager = true
@@ -100,11 +108,16 @@ mode = "fancy"
 				ghoul = true
 				nightmare = true
 				revenant = true
+				nameless_hanged = true
+				corrupted_vindicator = true
+				acolyte = true
+				corrupted_pillager = true
 
 			[light_sources.settings.entities.mutantmonsters]
 				mutant_zombie = true
 				mutant_creeper = true
 				mutant_skeleton = true
+				mutant_enderman = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -116,6 +129,9 @@ mode = "fancy"
 				nudibranch = true
 				ridinglizard = true
 				firebird = true
+				acencia = true
+				geckotoalizard = true
+				dragon = true
 
 			[light_sources.settings.entities.soulsweapons]
 				big_chungus = true

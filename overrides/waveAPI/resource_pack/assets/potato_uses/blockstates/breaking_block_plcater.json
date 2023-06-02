@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "potato_uses:block/breaking_block_plcater"
+    }
+  }
+}

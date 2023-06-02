@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" P","S "],
+"key": {"P": {"item": "potato_uses:primordial_potato"},"S": {"item": "potato_uses:potatetite_dagger"}}, "result":{ "item": "potato_uses:primordial_potatetite_dagger"}}

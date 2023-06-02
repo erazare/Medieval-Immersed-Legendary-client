@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "potato_uses:block/poison_splitter_bottom",
+    "east": "potato_uses:block/poison_splitter_side",
+    "north": "potato_uses:block/poison_splitter_side",
+    "particle": "potato_uses:block/poison_splitter_side",
+    "south": "potato_uses:block/poison_splitter_side",
+    "up": "potato_uses:block/poison_splitter_top",
+    "west": "potato_uses:block/poison_splitter_side"
+  }
+}

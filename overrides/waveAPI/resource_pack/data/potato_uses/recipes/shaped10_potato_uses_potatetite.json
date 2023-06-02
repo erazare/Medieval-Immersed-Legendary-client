@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["P"],
+"key": {"P": {"item": "potato_uses:potatetite_block"}}, "result":{ "item": "potato_uses:potatetite", "count":9}}

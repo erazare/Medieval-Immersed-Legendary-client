@@ -123,7 +123,8 @@
       "digs_dnd_origins:elf/high/darkvision": true,
       "digs_dnd_origins:elf/high/trance": true,
       "digs_dnd_origins:elf/high/elf_weapon_training": true,
-      "digs_dnd_origins:elf/high/cantrip": true
+      "digs_dnd_origins:elf/high/cantrip": true,
+      "digs_dnd_origins:elf/high/ability_score_increase": true
     },
     "digs_dnd_origins:gnome/rock": {
       "enabled": true,
@@ -223,7 +224,8 @@
       "digs_dnd_origins:elf/dark/drow_magic": true,
       "digs_dnd_origins:elf/dark/faerie_fire": true,
       "digs_dnd_origins:elf/dark/darkness": true,
-      "digs_dnd_origins:elf/dark/drow_weapon_training": true
+      "digs_dnd_origins:elf/dark/drow_weapon_training": true,
+      "digs_dnd_origins:elf/dark/ability_score_increase": true
     },
     "digs_dnd_origins:variant_human": {
       "enabled": true,
@@ -367,7 +369,8 @@
       "digs_dnd_origins:tiefling/hellish_rebuke": true,
       "digs_dnd_origins:tiefling/darkness": true,
       "digs_dnd_origins:tiefling/feared": true,
-      "digs_dnd_origins:tiefling/horns": true
+      "digs_dnd_origins:tiefling/horns": true,
+      "digs_dnd_origins:tiefling/ability_score_increase": true
     },
     "digs_dnd_origins:elf/cantrips/firebolt": {
       "enabled": true,

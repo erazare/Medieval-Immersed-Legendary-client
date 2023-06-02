@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [".S.","G#G"," . "],
+"key": {"S": {"tag":"minecraft:sand"},"#": {"item": "potato_uses:clockwork_potato"},"G": {"item": "potato_uses:potatetite_gear"},".": {"tag":"minecraft:stone_crafting_materials"}}, "result":{ "item": "potato_uses:poison_splitter"}}

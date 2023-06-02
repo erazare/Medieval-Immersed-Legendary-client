@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" E#"," CE","S  "],
+"key": {"S": {"item": "potato_uses:reinforced_stick"},"C": {"item": "potato_uses:advanced_teleport_stick"},"#": {"item": "potato_uses:primordial_potato"},"E": {"item": "potato_uses:ender_block"}}, "result":{ "item": "potato_uses:primordial_teleport_stick"}}

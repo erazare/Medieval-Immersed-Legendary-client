@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "potato_uses:block/potato_beacon_bottom",
+    "east": "potato_uses:block/potato_beacon_side",
+    "north": "potato_uses:block/potato_beacon_side",
+    "particle": "potato_uses:block/potato_beacon_side",
+    "south": "potato_uses:block/potato_beacon_side",
+    "up": "potato_uses:block/potato_beacon_top",
+    "west": "potato_uses:block/potato_beacon_side"
+  }
+}

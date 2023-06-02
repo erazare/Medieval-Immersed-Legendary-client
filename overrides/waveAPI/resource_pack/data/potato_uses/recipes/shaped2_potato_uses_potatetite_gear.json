@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" S ","SPS"," S "],
+"key": {"P": {"item": "potato_uses:potatetite"},"S": {"item": "potato_uses:potatetite_shard"}}, "result":{ "item": "potato_uses:potatetite_gear", "count":2}}

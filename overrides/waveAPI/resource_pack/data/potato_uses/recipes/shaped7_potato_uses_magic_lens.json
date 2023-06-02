@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["G G"," P ","G G"],
+"key": {"P": {"item": "potato_uses:poison_essence"},"G": {"item": "minecraft:gold_nugget"}}, "result":{ "item": "potato_uses:magic_lens"}}

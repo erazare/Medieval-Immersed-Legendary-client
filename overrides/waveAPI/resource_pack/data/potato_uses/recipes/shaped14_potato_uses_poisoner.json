@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SGS","S#S"," S "],
+"key": {"S": {"item": "minecraft:stone"},"#": {"item": "potato_uses:poison_essence"},"G": {"item": "potato_uses:potatetite_gear"}}, "result":{ "item": "potato_uses:poisoner"}}

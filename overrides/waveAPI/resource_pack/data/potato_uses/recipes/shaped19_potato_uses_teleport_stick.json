@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" DC"," SD","S  "],
+"key": {"S": {"item": "potato_uses:reinforced_stick"},"C": {"item": "potato_uses:warp_core"},"D": {"item": "minecraft:diamond"}}, "result":{ "item": "potato_uses:teleport_stick"}}

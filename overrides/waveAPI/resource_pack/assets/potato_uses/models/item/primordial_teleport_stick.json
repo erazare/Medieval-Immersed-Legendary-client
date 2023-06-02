@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "potato_uses:item/primordial_teleport_stick"
+  }
+}

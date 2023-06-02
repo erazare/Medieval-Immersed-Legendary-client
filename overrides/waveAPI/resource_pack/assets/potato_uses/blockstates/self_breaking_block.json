@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "potato_uses:block/self_breaking_block"
+    }
+  }
+}

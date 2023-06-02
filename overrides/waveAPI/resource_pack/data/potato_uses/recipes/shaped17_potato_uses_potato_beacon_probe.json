@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" EL"," SE","S  "],
+"key": {"S": {"item": "potato_uses:reinforced_stick"},"E": {"item": "potato_uses:ender_clockwork_potato"},"L": {"item": "potato_uses:magic_lens"}}, "result":{ "item": "potato_uses:potato_beacon_probe"}}

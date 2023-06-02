@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" GS","GSG","SG "],
+"key": {"S": {"item": "minecraft:stick"},"G": {"item": "potato_uses:potatetite_gem"}}, "result":{ "item": "potato_uses:reinforced_stick"}}

@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SSS","S#S","SSS"],
+"key": {"S": {"item": "potato_uses:primordial_potato_shard"},"#": {"item": "minecraft:nether_star"}}, "result":{ "item": "potato_uses:primordial_potato"}}

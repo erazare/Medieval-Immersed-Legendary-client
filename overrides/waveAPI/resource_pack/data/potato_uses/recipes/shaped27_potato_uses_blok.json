@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["SPS","III","SPS"],
+"key": {"P": {"item": "potato_uses:potatetite"},"S": {"item": "minecraft:stone"},"I": {"item": "minecraft:iron_nugget"}}, "result":{ "item": "potato_uses:blok"}}

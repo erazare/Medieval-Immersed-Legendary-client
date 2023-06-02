@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["PSP","SIS","PSP"],
+"key": {"P": {"item": "potato_uses:potatetite"},"S": {"item": "minecraft:stone"},"I": {"item": "minecraft:iron_ingot"}}, "result":{ "item": "potato_uses:self_breaking_block"}}

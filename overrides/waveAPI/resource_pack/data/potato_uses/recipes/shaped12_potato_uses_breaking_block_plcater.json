@@ -1,0 +1,4 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["GCG","GCG"," D "],
+"key": {"C": {"item": "potato_uses:clockwork_potato"},"D": {"item": "minecraft:diamond"},"G": {"item": "minecraft:gold_ingot"}}, "result":{ "item": "potato_uses:breaking_block_plcater"}}

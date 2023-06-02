@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "potato_uses:block/poison_splitter"
+    }
+  }
+}
