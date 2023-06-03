@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["G..","P#P","..G"],
-"key": {"P": {"item": "potato_uses:potatetite_gear"},"#": {"item": "minecraft:baked_potato"},"G": {"item": "potato_uses:potatetite_gem"},".": {"item": "minecraft:redstone"}}, "result":{ "item": "potato_uses:clockwork_potato"}}

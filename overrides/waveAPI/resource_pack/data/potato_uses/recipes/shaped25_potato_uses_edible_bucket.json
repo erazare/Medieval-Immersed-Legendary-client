@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["   ","P P"," P "],
-"key": {"P": {"item": "potato_uses:potatetite"}}, "result":{ "item": "potato_uses:edible_bucket"}}

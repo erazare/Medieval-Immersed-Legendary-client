@@ -84,6 +84,8 @@ mode = "fancy"
 				frog = true
 				allay = true
 				potion = true
+				trader_llama = true
+				boat = true
 
 			[light_sources.settings.entities.mca]
 				male_villager = true
@@ -99,6 +101,7 @@ mode = "fancy"
 				tropical_spider = true
 				explorer = true
 				frozen_zombie = true
+				corsair = true
 
 			[light_sources.settings.entities.direbats]
 				direbat = true
@@ -118,6 +121,7 @@ mode = "fancy"
 				mutant_creeper = true
 				mutant_skeleton = true
 				mutant_enderman = true
+				creeper_minion_egg = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -139,4 +143,18 @@ mode = "fancy"
 
 			[light_sources.settings.entities.lootgoblins]
 				golden_skeleton = true
+				redstone_creeper = true
+
+			[light_sources.settings.entities.varietyaquatic]
+				tetra = true
+				lionfish = true
+				opah = true
+				spottedstingray = true
+				sunfish = true
+				yellowfin = true
+				cuttlefish = true
+				jellyfish = true
+				clownfish = true
+				whaleshark = true
+				moonjelly = true
 

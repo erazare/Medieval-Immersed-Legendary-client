@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["PGP","GEG","PGP"],
-"key": {"P": {"item": "potato_uses:potatetite"},"E": {"item": "minecraft:poisonous_potato"},"G": {"item": "minecraft:gold_ingot"}}, "result":{ "item": "potato_uses:potatetite_gem", "count":2}}

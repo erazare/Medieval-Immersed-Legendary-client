@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["IEI","IDI"],
-"key": {"D": {"item": "minecraft:diamond"},"E": {"item": "potato_uses:ender_clockwork_potato"},"I": {"item": "minecraft:iron_ingot"}}, "result":{ "item": "potato_uses:warp_core"}}

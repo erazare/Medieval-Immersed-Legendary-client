@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": [" EG","PGE","SP "],
-"key": {"P": {"item": "potato_uses:clockwork_potato"},"S": {"item": "minecraft:stick"},"E": {"item": "minecraft:emerald"},"G": {"item": "potato_uses:potatetite_gem"}}, "result":{ "item": "potato_uses:sword_of_healing"}}

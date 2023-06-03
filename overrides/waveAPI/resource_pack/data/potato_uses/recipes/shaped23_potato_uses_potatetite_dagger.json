@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": [" P","S "],
-"key": {"P": {"item": "potato_uses:potatetite"},"S": {"item": "minecraft:stick"}}, "result":{ "item": "potato_uses:potatetite_dagger"}}

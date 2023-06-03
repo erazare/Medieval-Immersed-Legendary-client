@@ -1,7 +1,0 @@
-{
-  "variants" : {
-    "" : {
-      "model" : "myloot:block/opened_loot_chest"
-    }
-  }
-}

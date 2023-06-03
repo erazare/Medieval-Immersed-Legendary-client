@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["DDD","E#E","GEG"],
-"key": {"#": {"item": "minecraft:beacon"},"D": {"item": "minecraft:diamond"},"E": {"item": "potato_uses:ender_block"},"G": {"item": "potato_uses:ender_clockwork_potato"}}, "result":{ "item": "potato_uses:potato_beacon"}}

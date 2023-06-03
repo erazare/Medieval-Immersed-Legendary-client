@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["SLS","E#E","SSS"],
-"key": {"S": {"item": "minecraft:stone"},"#": {"item": "potato_uses:warp_core"},"E": {"item": "potato_uses:ender_clockwork_potato"},"L": {"item": "potato_uses:magic_lens"}}, "result":{ "item": "potato_uses:ender_block"}}

@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["PGP","IPI","PGP"],
-"key": {"P": {"item": "minecraft:potato"},"G": {"item": "minecraft:gold_nugget"},"I": {"item": "minecraft:iron_nugget"}}, "result":{ "item": "potato_uses:potatetite", "count":4}}

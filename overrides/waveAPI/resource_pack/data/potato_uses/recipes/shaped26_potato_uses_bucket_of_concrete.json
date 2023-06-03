@@ -1,4 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["GGS","GSS"," B "],
-"key": {"B": {"item": "potato_uses:edible_bucket"},"S": {"item": "minecraft:sand"},"G": {"item": "minecraft:gravel"}}, "result":{ "item": "potato_uses:bucket_of_concrete"}}
