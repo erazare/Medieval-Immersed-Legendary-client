@@ -86,6 +86,20 @@ mode = "fancy"
 				potion = true
 				trader_llama = true
 				boat = true
+				ravager = true
+				vex = true
+				evoker_fangs = true
+				phantom = true
+				piglin = true
+				zombified_piglin = true
+				strider = true
+				ghast = true
+				blaze = true
+				magma_cube = true
+				fireball = true
+				small_fireball = true
+				elder_guardian = true
+				guardian = true
 
 			[light_sources.settings.entities.mca]
 				male_villager = true
@@ -102,6 +116,7 @@ mode = "fancy"
 				explorer = true
 				frozen_zombie = true
 				corsair = true
+				nightmare = true
 
 			[light_sources.settings.entities.direbats]
 				direbat = true
@@ -122,6 +137,7 @@ mode = "fancy"
 				mutant_skeleton = true
 				mutant_enderman = true
 				creeper_minion_egg = true
+				mutant_arrow = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -137,9 +153,12 @@ mode = "fancy"
 				geckotoalizard = true
 				dragon = true
 				courierbird = true
+				moth = true
+				griffon = true
 
 			[light_sources.settings.entities.soulsweapons]
 				big_chungus = true
+				evil_forlorn = true
 
 			[light_sources.settings.entities.lootgoblins]
 				golden_skeleton = true
@@ -157,4 +176,42 @@ mode = "fancy"
 				clownfish = true
 				whaleshark = true
 				moonjelly = true
+				shark = true
+				hermitcrab = true
+
+			[light_sources.settings.entities.supplementaries]
+				red_merchant = true
+
+			[light_sources.settings.entities.betteranimalsplus]
+				songbird = true
+				turkey = true
+				horseshoecrab = true
+				crab = true
+				pheasant = true
+				boar = true
+				goose = true
+				badger = true
+				deer = true
+				coyote = true
+				eel_freshwater = true
+				feralwolf = true
+				lamprey = true
+				brownbear = true
+				butterfly = true
+				blackbear = true
+				squirrel = true
+				jellyfish = true
+				bobbit_worm = true
+				nautilus = true
+				eel_saltwater = true
+				shark = true
+
+			[light_sources.settings.entities.whisperwoods]
+				moth = true
+				zotzpyre = true
+				hidebehind = true
+				wisp = true
+
+			[light_sources.settings.entities.myloot]
+				loot_chest_minecart = true
 

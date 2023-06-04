@@ -1,10 +1,10 @@
-[00:03:23] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[00:03:23] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[00:03:23] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[00:03:23] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[00:03:23] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
-[00:03:24] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[00:03:24] [Render thread/INFO] [?] Version: JourneyMap 1.19.2-5.9.7, built with fabric 0.66.0+1.19.2
+[10:58:03] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[10:58:03] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[10:58:03] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[10:58:03] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[10:58:03] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
+[10:58:04] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[10:58:04] [Render thread/INFO] [?] Version: JourneyMap 1.19.2-5.9.7, built with fabric 0.66.0+1.19.2
 fabric: 0.14.10
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -18,90 +18,29 @@ Features:
 	MapBiome : singleplayer = true , multiplayer = true
 MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.9.7, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_circle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=false, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
 MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.9.7, zoomLevel=0, compassFontScale=1.0, terrainAlpha=100, showEntityNames=true, positionX=0.9, positionY=0.25, effectVertical=false, showPlayerHeading=true, sizePercent=30, playerDisplayScale=1.0, showDayNight=true, showPets=true, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.dots, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.0, showGrid=true, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=0, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.7, effectTranslateY=0, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_topright, fontScale=1.0, showPlayers=true, waypointIconScale=1.0, frameAlpha=100, effectReversed=false, backgroundAlpha=0.8, enabled=false, showVillagers=true, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=true, waypointLabelScale=1.0, showReticle=true, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xzyv, playerDisplay=jm.common.entity_display.dots, mobDisplayScale=1.0, showCaves=true, showMobHeading=true, locationFormatVerbose=true, info1Label=jm.theme.labelsource.blank}
-FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9.7, zoomLevel=1, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.icons, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.icons, mobDisplayScale=1.0, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, dragScale=1, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.9.7, zoomLevel=2, showPlayers=true, waypointIconScale=1.0, showEntityNames=true, showPlayerHeading=true, showVillagers=true, showPlayerLoc=true, showKeys=true, playerDisplayScale=1.0, showMobs=true, showPets=true, waypointLabelScale=1.0, preferredMapType=day, mobDisplay=jm.common.entity_display.icons, showSelf=true, locationFormat=xzyv, playerDisplay=jm.common.entity_display.icons, mobDisplayScale=1.0, selfDisplayScale=1.0, showGrid=true, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, dragScale=1, showMobHeading=true, showWaypointLabels=true, locationFormatVerbose=true, fontScale=1.0}
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.9.7, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.9.7, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.9.7, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=5.9.7, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.9.7, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[00:03:24] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 960.73ms
-[00:03:24] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 5.33ms
-[00:03:30] [JM-VersionCheck-1/ERROR] [VersionCheck] Could not check version URL https://forge.curseupdate.com/32274/journeymap?ml=fabric
-java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.HttpClientImpl.send(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientFacade.send(Unknown Source) ~[java.net.http:?]
-	at journeymap.common.version.VersionCheck.makeGetRequest(VersionCheck.java:225) ~[journeymap-1.19.2-5.9.7-fabric.jar:?]
-	at journeymap.common.version.VersionCheck.lambda$checkVersion$0(VersionCheck.java:121) ~[journeymap-1.19.2-5.9.7-fabric.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:?]
-	at java.util.concurrent.FutureTask.run(Unknown Source) [?:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:?]
-	at java.lang.Thread.run(Unknown Source) [?:?]
-Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
-Caused by: java.net.ConnectException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
-[00:03:36] [JM-VersionCheck-1/ERROR] [VersionCheck] Could not check version URL https://forge.curseupdate.com/32274/journeymap/references?ml=fabric
-java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.HttpClientImpl.send(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientFacade.send(Unknown Source) ~[java.net.http:?]
-	at journeymap.common.version.VersionCheck.makeGetRequest(VersionCheck.java:225) ~[journeymap-1.19.2-5.9.7-fabric.jar:?]
-	at journeymap.common.version.VersionCheck.lambda$checkVersion$0(VersionCheck.java:127) ~[journeymap-1.19.2-5.9.7-fabric.jar:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:?]
-	at java.util.concurrent.FutureTask.run(Unknown Source) [?:?]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:?]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:?]
-	at java.lang.Thread.run(Unknown Source) [?:?]
-Caused by: java.net.http.HttpConnectTimeoutException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
-Caused by: java.net.ConnectException: HTTP connect timed out
-	at jdk.internal.net.http.ResponseTimerEvent.handle(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl.purgeTimeoutsAndReturnNextDeadline(Unknown Source) ~[java.net.http:?]
-	at jdk.internal.net.http.HttpClientImpl$SelectorManager.run(Unknown Source) ~[java.net.http:?]
-[00:03:42] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 389ms
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 89ms
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 68ms
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 71ms
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 65ms
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 66ms
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 67ms
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 62ms
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 61ms
-[00:03:42] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 62ms
-[00:03:43] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 62ms
-[00:03:58] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~\waypoints
-[00:03:58] [Render thread/INFO] [JourneymapClient] Mapping started in ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~\overworld. Memory: 6648MB total, 2372MB free 
-[00:04:05] [Render thread/INFO] [JourneymapClient] Mapping halted in ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~\minecraft:overworld
-[00:04:05] [Render thread/INFO] [JourneymapClient] World UID is set to: 6c67129e-0aae-43c5-903d-0cf3edca629e
-[00:04:06] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~_6c67129e~0aae~43c5~903d~0cf3edca629e\waypoints
-[00:04:06] [Render thread/INFO] [JourneymapClient] Mapping started in ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~_6c67129e~0aae~43c5~903d~0cf3edca629e\overworld. Memory: 6648MB total, 3027MB free 
-[00:04:08] [Render thread/INFO] [ChatLog] JourneyMap: Press [M]
-[00:06:50] [Render thread/WARN] [JMLogger] Can't get entityTexture for minecraft:textures/entity_icon/villager/alchemist.png
-[00:06:50] [Render thread/WARN] [JMLogger] Can't get entityTexture for minecraft:textures/entity_icon/villager/wizard_merchant.png
-[00:06:50] [Render thread/WARN] [JMLogger] Can't get entityTexture for betteranimalmodels:textures/entity_icon/pig.png
-[00:06:50] [Render thread/WARN] [JMLogger] Can't get entityTexture for betteranimalmodels:textures/entity_icon/bee/bee_nectar.png
-[00:06:50] [Render thread/WARN] [JMLogger] Can't get entityTexture for betteranimalmodels:textures/entity_icon/sheep.png
-[00:06:50] [Render thread/WARN] [JMLogger] Can't get entityTexture for betteranimalmodels:textures/entity_icon/chicken.png
-[00:06:50] [Render thread/WARN] [JMLogger] Can't get entityTexture for betteranimalmodels:textures/entity_icon/cow.png
-[00:06:50] [Render thread/WARN] [JMLogger] Can't get entityTexture for graveyard:textures/entity_icon/ghoul_skin5.png
-[00:07:03] [Render thread/WARN] [JMLogger] Can't get entityTexture for mythicmounts:textures/entity_icon/textures/entity_icon/firebird_mount.png
-[00:07:03] [Render thread/WARN] [JMLogger] Can't get entityTexture for betteranimalmodels:textures/entity_icon/bee/bee.png
-[00:08:00] [Render thread/WARN] [JMLogger] Can't get entityTexture for betteranimalmodels:textures/entity_icon/cat/ragdoll.png
-[00:08:00] [Render thread/WARN] [JMLogger] Can't get entityTexture for mythicmounts:textures/entity_icon/textures/entity_icon/firebird_mount2.png
-[00:08:57] [Render thread/WARN] [JMLogger] Can't get entityTexture for graveyard:textures/entity_icon/skeleton_creeper.png
-[00:08:57] [Render thread/WARN] [JMLogger] Can't get entityTexture for direbats:textures/entity_icon/direbat/direbat.png
-[00:16:53] [Render thread/WARN] [JMLogger] Can't get entityTexture for varietyaquatic:textures/entity_icon/cuttlefish_texture.png
-[00:16:53] [Render thread/WARN] [JMLogger] Can't get entityTexture for varietyaquatic:textures/entity_icon/sunfish_texture.png
-[00:17:57] [Render thread/WARN] [JMLogger] Can't get entityTexture for varietyaquatic:textures/entity_icon/clownfish_texture.png
-[00:17:57] [Render thread/WARN] [JMLogger] Can't get entityTexture for varietyaquatic:textures/entity_icon/moonjelly_texture.png
-[00:19:23] [Render thread/INFO] [DeathPointHandler] Keef_DGAF died at class_2338{x=-278, y=63, z=-214}. Deathpoints enabled: true. Deathpoint created: true
-[00:19:29] [Render thread/WARN] [JMLogger] Can't get entityTexture for varietyaquatic:textures/entity_icon/opah_texture.png
-[00:19:29] [Render thread/WARN] [JMLogger] Can't get entityTexture for varietyaquatic:textures/entity_icon/yellowfintuna_texture.png
-[00:21:58] [Render thread/INFO] [JourneymapClient] Mapping halted in ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~_6c67129e~0aae~43c5~903d~0cf3edca629e\minecraft:overworld
-[00:21:59] [Render thread/INFO] [MappingMonitorTask] World ID has been reset.
-[00:21:59] [Render thread/INFO] [JourneymapClient] World UID is set to: null
+[10:58:04] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 908.89ms
+[10:58:04] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 4.24ms
+[10:58:21] [Render thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for create
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 356ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 96ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 67ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 63ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 61ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 58ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 59ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 58ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 57ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 58ms
+[10:58:21] [Render thread/INFO] [ColorManager] Loaded color palette for 874 blockstates in 57ms
+[10:58:38] [Render thread/INFO] [JourneymapClient] World UID is set to: 6c67129e-0aae-43c5-903d-0cf3edca629e
+[10:58:41] [Render thread/INFO] [WaypointStore] Loaded 4 waypoints from ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~_6c67129e~0aae~43c5~903d~0cf3edca629e\waypoints
+[10:58:41] [Render thread/INFO] [JourneymapClient] Mapping started in ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~_6c67129e~0aae~43c5~903d~0cf3edca629e\overworld. Memory: 5416MB total, 1355MB free 
+[10:58:41] [Render thread/INFO] [WaypointGroupStore] Loaded WaypointGroups file ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~_6c67129e~0aae~43c5~903d~0cf3edca629e\waypoints\waypoint_groups.json
+[10:58:42] [Render thread/INFO] [ChatLog] JourneyMap: Press [M]
+[10:58:54] [Render thread/INFO] [JourneymapClient] Mapping halted in ..\..\instances\Legendary Immersed\journeymap\data\mp\Medieval~Immersed~Legendary~Ed~_6c67129e~0aae~43c5~903d~0cf3edca629e\minecraft:overworld
+[10:58:55] [Render thread/INFO] [MappingMonitorTask] World ID has been reset.
+[10:58:55] [Render thread/INFO] [JourneymapClient] World UID is set to: null

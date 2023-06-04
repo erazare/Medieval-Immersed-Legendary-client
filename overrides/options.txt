@@ -117,7 +117,7 @@ key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.unknown
 key_key.advancedcompass.openconfig:key.keyboard.unknown
 key_key.advancedcompass.newwaypoint:key.keyboard.unknown
-key_key.advancedcompass.openwaypointlist:key.keyboard.unknown
+key_key.advancedcompass.openwaypointlist:key.keyboard.keypad.1
 key_key.advancedcompass.toggleentities:key.keyboard.unknown
 key_key.advancedcompass.togglewp:key.keyboard.unknown
 key_key.advancedcompass.hidemobs:key.keyboard.unknown
