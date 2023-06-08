@@ -100,6 +100,20 @@ mode = "fancy"
 				small_fireball = true
 				elder_guardian = true
 				guardian = true
+				hoglin = true
+				area_effect_cloud = true
+				chest_boat = true
+				dragon_fireball = true
+				end_crystal = true
+				ender_dragon = true
+				endermite = true
+				eye_of_ender = true
+				falling_block = true
+				firework_rocket = true
+				giant = true
+				goat = true
+				leash_knot = true
+				silverfish = true
 
 			[light_sources.settings.entities.mca]
 				male_villager = true
@@ -117,6 +131,8 @@ mode = "fancy"
 				frozen_zombie = true
 				corsair = true
 				nightmare = true
+				infected_piglin = true
+				soul_stealer = true
 
 			[light_sources.settings.entities.direbats]
 				direbat = true
@@ -163,6 +179,8 @@ mode = "fancy"
 			[light_sources.settings.entities.lootgoblins]
 				golden_skeleton = true
 				redstone_creeper = true
+				lapis_zombie = true
+				loot_goblin = true
 
 			[light_sources.settings.entities.varietyaquatic]
 				tetra = true
@@ -205,6 +223,12 @@ mode = "fancy"
 				nautilus = true
 				eel_saltwater = true
 				shark = true
+				dragonfly = true
+				whale = true
+				barracuda = true
+				flying_fish = true
+				tarantula = true
+				octopus = true
 
 			[light_sources.settings.entities.whisperwoods]
 				moth = true
@@ -214,4 +238,8 @@ mode = "fancy"
 
 			[light_sources.settings.entities.myloot]
 				loot_chest_minecart = true
+
+			[light_sources.settings.entities.create]
+				super_glue = true
+				stationary_contraption = true
 
