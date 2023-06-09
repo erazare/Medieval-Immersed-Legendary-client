@@ -154,6 +154,10 @@ mode = "fancy"
 				mutant_enderman = true
 				creeper_minion_egg = true
 				mutant_arrow = true
+				endersoul_clone = true
+				throwable_block = true
+				body_part = true
+				creeper_minion = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -229,6 +233,7 @@ mode = "fancy"
 				flying_fish = true
 				tarantula = true
 				octopus = true
+				lammergeier = true
 
 			[light_sources.settings.entities.whisperwoods]
 				moth = true
