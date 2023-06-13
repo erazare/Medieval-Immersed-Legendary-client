@@ -200,6 +200,8 @@ mode = "fancy"
 				moonjelly = true
 				shark = true
 				hermitcrab = true
+				betta = true
+				piranha = true
 
 			[light_sources.settings.entities.supplementaries]
 				red_merchant = true
