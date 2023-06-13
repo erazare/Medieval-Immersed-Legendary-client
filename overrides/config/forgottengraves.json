@@ -19,6 +19,7 @@
   "server": {
     "graveRobbing": false,
     "storedGravesAmount": 10,
+    "destructiveDeleteCommand": false,
     "OPOverrideLevel": 4,
     "clientOptions": []
   }

@@ -234,6 +234,8 @@ mode = "fancy"
 				tarantula = true
 				octopus = true
 				lammergeier = true
+				squid_giant = true
+				piranha = true
 
 			[light_sources.settings.entities.whisperwoods]
 				moth = true
@@ -247,4 +249,8 @@ mode = "fancy"
 			[light_sources.settings.entities.create]
 				super_glue = true
 				stationary_contraption = true
+
+			[light_sources.settings.entities.xtraarrows]
+				flint_tracking_arrow = true
+				golden_soul_torch_arrow = true
 
