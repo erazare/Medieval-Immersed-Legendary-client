@@ -114,6 +114,7 @@ mode = "fancy"
 				goat = true
 				leash_knot = true
 				silverfish = true
+				mooshroom = true
 
 			[light_sources.settings.entities.mca]
 				male_villager = true
@@ -175,6 +176,7 @@ mode = "fancy"
 				courierbird = true
 				moth = true
 				griffon = true
+				colelytra = true
 
 			[light_sources.settings.entities.soulsweapons]
 				big_chungus = true
