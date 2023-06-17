@@ -181,6 +181,7 @@ mode = "fancy"
 			[light_sources.settings.entities.soulsweapons]
 				big_chungus = true
 				evil_forlorn = true
+				dark_sorcerer = true
 
 			[light_sources.settings.entities.lootgoblins]
 				golden_skeleton = true
@@ -257,4 +258,8 @@ mode = "fancy"
 			[light_sources.settings.entities.xtraarrows]
 				flint_tracking_arrow = true
 				golden_soul_torch_arrow = true
+
+			[light_sources.settings.entities.vinery]
+				wandering_winemaker = true
+				mule = true
 
